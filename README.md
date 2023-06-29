@@ -1,2 +1,2 @@
 # URL-SHORTNER
-A simple tool which makes URL as short as possible. 
+A simple backend application tool built with Nodejs that shortens a Uniform Resource Locator(URL).
